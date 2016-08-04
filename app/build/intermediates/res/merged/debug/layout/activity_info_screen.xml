@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:padding="20dp"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:autoLink="all"
+        android:textColor="#fc5d5d"
+        android:textStyle="bold"
+        android:text="Downloading music from Youtube is ILLEGAL !"
+        android:id="@+id/textView" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Easiest YouTube Downloader Ever !\n\nApp still has bugs, so click on the result again if audio is not downloades\n\n"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:autoLink="all"
+        android:text="\n\nWant to contribute in this App's Development?"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:autoLink="all"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="\nContact -\nsudeep.srivastava@outlook.com"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autoLink="all"
+        android:text="\n\n\n\nAPIs provided by https://www.youtubeinmp3.com/api"/>
+
+</LinearLayout>

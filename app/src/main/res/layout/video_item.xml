@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="16dp" >
+
+    <ImageView
+        android:id="@+id/video_thumbnail"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="20dp"/>
+
+    <TextView
+        android:id="@+id/video_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/video_thumbnail"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:visibility="gone"
+        android:focusable="false"
+        android:id="@+id/downloadButton"
+        android:layout_below="@+id/video_title"
+        android:layout_toRightOf="@+id/video_thumbnail"
+        android:layout_toEndOf="@+id/video_thumbnail" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="#d91f1f"
+        android:visibility="gone"
+        android:text="Download Failed !"
+        android:id="@+id/downloadStatus"
+        android:layout_alignBottom="@+id/video_thumbnail"
+        android:layout_alignParentRight="true"
+        android:layout_alignLeft="@+id/video_title"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

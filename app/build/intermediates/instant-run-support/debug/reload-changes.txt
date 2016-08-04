@@ -1,0 +1,11 @@
+CHANGED,D:\GitHub Projects\youtube-api-demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\youtubeapidemo\MainActivity$override.class
+CHANGED,D:\GitHub Projects\youtube-api-demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\youtubeapidemo\R$styleable$override.class
+CHANGED,D:\GitHub Projects\youtube-api-demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\youtubeapidemo\R$mipmap$override.class
+CHANGED,D:\GitHub Projects\youtube-api-demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\youtubeapidemo\R$string$override.class
+CHANGED,D:\GitHub Projects\youtube-api-demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\GitHub Projects\youtube-api-demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\youtubeapidemo\MainActivity$3$override.class
+CHANGED,D:\GitHub Projects\youtube-api-demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\youtubeapidemo\R$id$override.class
+CHANGED,D:\GitHub Projects\youtube-api-demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\youtubeapidemo\R$style$override.class
+CHANGED,D:\GitHub Projects\youtube-api-demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\youtubeapidemo\R$integer$override.class
+CHANGED,D:\GitHub Projects\youtube-api-demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\youtubeapidemo\R$layout$override.class
+CHANGED,D:\GitHub Projects\youtube-api-demo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\youtubeapidemo\R$menu$override.class
