@@ -1,4 +1,4 @@
-#Youtube API Demo
+#YoutubeAudio - Android
 Youtube API demo app for android. In this app, user will able to search Youtube Content and then they can download its Audio.
 
 ## Usage 
